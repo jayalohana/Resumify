@@ -7,6 +7,3 @@ const Login = () => {
 }
 
 export default Login
-
-//daily
-//daily
