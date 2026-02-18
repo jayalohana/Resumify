@@ -19,5 +19,3 @@ export default App
 //daily
 
 //daily
-//daily
-
