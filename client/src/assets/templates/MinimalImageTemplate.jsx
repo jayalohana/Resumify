@@ -203,4 +203,3 @@ export default MinimalImageTemplate;
 //daily
 //daily
 //daily
-//daily
