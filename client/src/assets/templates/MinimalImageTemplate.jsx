@@ -188,3 +188,4 @@ const MinimalImageTemplate = ({ data, accentColor }) => {
 
 export default MinimalImageTemplate;
 
+//daily
